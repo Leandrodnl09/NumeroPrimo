@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumeroPrimo\bin\Debug\net6.0\NumeroPrimo.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumeroPrimo\bin\Debug\net6.0\NumeroPrimo.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumeroPrimo\bin\Debug\net6.0\NumeroPrimo.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumeroPrimo\bin\Debug\net6.0\NumeroPrimo.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumeroPrimo\bin\Debug\net6.0\NumeroPrimo.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumeroPrimo\obj\Debug\net6.0\NumeroPrimo.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumeroPrimo\obj\Debug\net6.0\NumeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumeroPrimo\obj\Debug\net6.0\NumeroPrimo.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumeroPrimo\obj\Debug\net6.0\NumeroPrimo.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumeroPrimo\obj\Debug\net6.0\NumeroPrimo.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumeroPrimo\obj\Debug\net6.0\NumeroPrimo.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumeroPrimo\obj\Debug\net6.0\refint\NumeroPrimo.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumeroPrimo\obj\Debug\net6.0\NumeroPrimo.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumeroPrimo\obj\Debug\net6.0\NumeroPrimo.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumeroPrimo\obj\Debug\net6.0\ref\NumeroPrimo.dll
